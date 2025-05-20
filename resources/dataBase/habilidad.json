@@ -1,0 +1,22 @@
+{"data": [
+  {
+    "Nombre": "Tranquilo",
+    "Activo": true,
+    "Id": 1
+  },
+  {
+    "Nombre": "Amoroso como un oso",
+    "Activo": true,
+    "Id": 2
+  },
+  {
+    "Nombre": "Rencoroso",
+    "Activo": true,
+    "Id": 3
+  },
+  {
+    "Nombre": "Gracioso",
+    "Activo": true,
+    "Id": 4
+  }
+]}

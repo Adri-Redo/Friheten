@@ -1,0 +1,16 @@
+{"data": [
+  {
+    "localizacion": "Madrid",
+    "id": 1,
+    "nombre": "NaveTest",
+    "capacidad": 2000,
+    "activo": false
+  },
+  {
+    "localizacion": "AAA",
+    "id": 2,
+    "nombre": "Nave1",
+    "capacidad": 200,
+    "activo": true
+  }
+]}

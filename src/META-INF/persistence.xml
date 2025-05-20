@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0">
+	<persistence-unit name="FrihetenUML" transaction-type="RESOURCE_LOCAL">
+	<provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+		<class>Negocio.Alergeno_Cafeteria.Alergeno</class>
+		<class>Negocio.Compra_Cafeteria.CompraCafeteria</class>
+		<class>Negocio.Compra_Cafeteria.LineaCompra</class>
+		<class>Negocio.Compra_Cafeteria.LineaCompraId</class>
+		<class>Negocio.Marca_Cafeteria.Marca</class>
+		<class>Negocio.Turno_Cafeteria.Turno</class>
+		<class>Negocio.Producto_Cafeteria.Producto</class>
+		<class>Negocio.Personal_Cafeteria.PersonalCafeteria</class>
+		<class>Negocio.Personal_Cafeteria.Jefe</class>
+		<class>Negocio.Personal_Cafeteria.Empleado</class>
+		<class>Negocio.Producto_Cafeteria.Bebida</class>
+		<class>Negocio.Producto_Cafeteria.Comida</class>
+	
+	<properties>
+		<property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
+		<property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+        <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/mydb"/>
+        <property name="jakarta.persistence.jdbc.user" value="root" />
+        <property name="jakarta.persistence.jdbc.password" value="1234"/>
+		<property name="eclipselink.ddl-generation.output-mode" value="both"/>
+	</properties>
+	</persistence-unit>
+</persistence>

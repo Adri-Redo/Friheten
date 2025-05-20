@@ -1,0 +1,12 @@
+{"data": [
+  {
+    "IdHabilidad": 3,
+    "Activo": true,
+    "IdPersonal": 3
+  },
+  {
+    "IdHabilidad": 4,
+    "Activo": true,
+    "IdPersonal": 6
+  }
+]}

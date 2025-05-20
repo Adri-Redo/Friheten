@@ -1,0 +1,53 @@
+{"data": [
+  {
+    "Nombre": "Sergio",
+    "Activo": false,
+    "NIF": "09130854S",
+    "Apellido": "Sanchez",
+    "IdNave": 1,
+    "Id": 1
+  },
+  {
+    "Nombre": "Marcos",
+    "Cargo": "Futbolista",
+    "Activo": false,
+    "NIF": "08450675F",
+    "Apellido": "Naranjo",
+    "IdNave": 1,
+    "Id": 2
+  },
+  {
+    "Nombre": "Francisco",
+    "Activo": true,
+    "NIF": "98765431H",
+    "Apellido": "Perez",
+    "IdNave": 1,
+    "Id": 3
+  },
+  {
+    "Nombre": "Baldomero",
+    "Cargo": "Arquitecto",
+    "Activo": true,
+    "NIF": "78950457B",
+    "Apellido": "Santos",
+    "IdNave": 2,
+    "Id": 4
+  },
+  {
+    "Nombre": "Diego",
+    "Cargo": "Pela patatas",
+    "Activo": true,
+    "NIF": "67840987D",
+    "Apellido": "Rubio",
+    "IdNave": 2,
+    "Id": 5
+  },
+  {
+    "Nombre": "Sergio",
+    "Activo": true,
+    "NIF": "09130854S",
+    "Apellido": "Sanchez",
+    "IdNave": 2,
+    "Id": 6
+  }
+]}
